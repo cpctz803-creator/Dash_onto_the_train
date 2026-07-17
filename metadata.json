@@ -1,0 +1,6 @@
+{
+  "name": "改札ダッシュ！駆け込み乗車シミュレーター",
+  "description": "改札を通ってから満員電車に乗車するまでの『最短時間』を競う駆け引きタイミングゲーム！通勤ラッシュの混雑と時刻表のタイムリミットを見極め、最適な乗車を目指そう。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
